@@ -1,0 +1,4 @@
+"modelo","k","AICc","delta_AICc","peso_AICc","loglik"
+"sin_ocultos",5,230.42,0,0.782,-107.45
+"1_oculto_libre",10,249.05,18.63,0,-105.89
+"nulo",5,232.98,2.56,0.218,-107.5
